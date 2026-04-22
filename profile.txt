@@ -1,4 +1,4 @@
-Name: Muhammad Azfar Master
-Matric Nummber: 251594706
+Name: Muhammad Azfar Muammar Bin Mohd Azhar
+Matric Number: 251594706
 Course: Data Science (Artificial Intelligence)
 Hobbies: Badminton, Coding
